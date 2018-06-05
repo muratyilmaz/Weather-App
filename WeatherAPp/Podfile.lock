@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (4.7.0)
+  - SVProgressHUD (2.2.5)
+  - TinyConstraints (3.1.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 4.0)
+  - SVProgressHUD
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Kingfisher
+    - SVProgressHUD
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TinyConstraints: 4721a4b303c799328867078ade6560e152df54d1
+
+PODFILE CHECKSUM: b457c22a25159d127c3903a54d26ee1c3e47717e
+
+COCOAPODS: 1.5.0

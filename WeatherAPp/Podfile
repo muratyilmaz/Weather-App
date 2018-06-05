@@ -1,0 +1,9 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'WeatherAPp' do
+  use_frameworks!
+pod "TinyConstraints"
+pod 'SVProgressHUD'
+pod 'Kingfisher', '~> 4.0'
+end
